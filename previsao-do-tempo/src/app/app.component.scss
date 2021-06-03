@@ -1,0 +1,10 @@
+.container-fluid {
+  height: calc(100vh - 56px);
+
+  > .row {
+    height: 100%;
+  }
+}
+.pd-top {
+  padding-top: 32px;
+}
